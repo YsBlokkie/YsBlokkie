@@ -37,6 +37,8 @@ Discrete-Component Signal Generator: A waveform generator built entirely from di
 
 
 FlightScope Battery Regulator Prototype: Li-ion battery regulator with a terminal-based C control interface, built on a Raspberry Pi 5 and Raspberry Pi Pico.
+
+
 Dipole Antenna Design & Simulation: Designed, built and tested a dipole antenna, with receiver simulation for Electromagnetics and High Frequency Techniques coursework.
 
 
