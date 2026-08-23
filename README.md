@@ -2,6 +2,7 @@
 
 Electrical and Electronic Engineering student at Stellenbosch University, building things that sit at the intersection of hardware and software.
 
+
 🎓 BEng (Electrical and Electronic Engineering), Stellenbosch University -> expected 2028
 
 
@@ -20,6 +21,7 @@ Electrical and Electronic Engineering student at Stellenbosch University, buildi
 🏃 Long-distance runner -> 225+ parkruns and counting, PB of 21:22
 
 
+
 🔧 Skills & Tools:
 
   Languages: C, Python, MATLAB, Arduino
@@ -27,6 +29,8 @@ Electrical and Electronic Engineering student at Stellenbosch University, buildi
   Embedded & Dev Tools: STM32CubeIDE, Arduino IDE, Raspberry Pi, VS Code, Vim
 
   Engineering Software: MATLAB, AutoCAD, FEKO, CST Studio Suite, AWR Microwave Office, LTspice, NGspice
+
+  
 
 🚀 Featured Projects
 
@@ -36,13 +40,12 @@ Smart Energy Controller: STM32G0B1RE NUCLEO-64 firmware with a UART command inte
 Discrete-Component Signal Generator: A waveform generator built entirely from discrete components, producing adjustable square, triangular and sinusoidal waveforms with variable amplitude, frequency, duty cycle and offset.
 
 
-FlightScope Battery Regulator Prototype: Li-ion battery regulator with a terminal-based C control interface, built on a Raspberry Pi 5 and Raspberry Pi Pico.
-
-
 Dipole Antenna Design & Simulation: Designed, built and tested a dipole antenna, with receiver simulation for Electromagnetics and High Frequency Techniques coursework.
 
 
 Space Invaders (Python): Group project for Computer Science, built from scratch in Python.
+
+
 
 📫 Get in touch:
 
