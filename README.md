@@ -8,7 +8,7 @@ Electrical and Electronic Engineering student at Stellenbosch University, buildi
 ⚙️ Focus areas: embedded systems, digital signal processing, RF & electromagnetics, control systems, machine learning
 
 
-🛠️ Currently building softawre and hardware prototypes for university projects and just studying in general
+🛠️ Currently building software and hardware prototypes for university projects and just studying in general
 
 
 💼 Recently completed vacation work at FlightScope, developing a MATLAB data-logging tool for radar ball-tracking devices and prototyping a Li-ion battery regulator with a terminal-based C control interface (Raspberry Pi 5 & Raspberry Pi Pico)
