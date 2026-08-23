@@ -22,11 +22,11 @@ Electrical and Electronic Engineering student at Stellenbosch University, buildi
 
 🔧 Skills & Tools:
 
-     Languages: C, Python, MATLAB, Arduino
+  Languages: C, Python, MATLAB, Arduino
 
-     Embedded & Dev Tools: STM32CubeIDE, Arduino IDE, Raspberry Pi, VS Code, Vim
+  Embedded & Dev Tools: STM32CubeIDE, Arduino IDE, Raspberry Pi, VS Code, Vim
 
-     Engineering Software: MATLAB, AutoCAD, FEKO, CST Studio Suite, AWR Microwave Office, LTspice, NGspice
+  Engineering Software: MATLAB, AutoCAD, FEKO, CST Studio Suite, AWR Microwave Office, LTspice, NGspice
 
 🚀 Featured Projects
 
@@ -45,5 +45,7 @@ Space Invaders (Python): Group project for Computer Science, built from scratch 
 📫 Get in touch:
 
 📧 bianca.uys63@gmail.com
+
+
 🔗 [LinkedIn Profile URL] 
 
