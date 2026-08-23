@@ -46,7 +46,5 @@ Space Invaders (Python): Group project for Computer Science, built from scratch 
 
 📧 bianca.uys63@gmail.com
 
-📞 0762121545
-
-🔗 [LinkedIn Profile URL] 
+🔗 https://www.linkedin.com/in/bianca-uys-b90297376/
 
