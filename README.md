@@ -40,10 +40,10 @@ Smart Energy Controller: STM32G0B1RE NUCLEO-64 firmware with a UART command inte
 Discrete-Component Signal Generator: A waveform generator built entirely from discrete components, producing adjustable square, triangular and sinusoidal waveforms with variable amplitude, frequency, duty cycle and offset.
 
 
-Dipole Antenna Design & Simulation: Designed, built and tested a dipole antenna, with receiver simulation for Electromagnetics and High Frequency Techniques coursework.
+Dipole Antenna Design & Simulation: Designed, built and tested a dipole antenna, with receiver simulation for Electromagnetics and High Frequency Techniques coursework. (Repositories still have to be added)
 
 
-Space Invaders (Python): Group project for Computer Science, built from scratch in Python.
+Space Invaders (Python): Group project for Computer Science, built from scratch in Python. (Repositories still have to be added)
 
 
 
